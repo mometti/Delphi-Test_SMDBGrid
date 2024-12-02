@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/21 16:27:05.000.215,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2020/12/21 16:44:59.000.987,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2021/02/10 11:09:13.000.323,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2021/09/03 16:48:30.000.931,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/09/03 16:48:32.000.765,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\ServerConst1.pas</Transaction>
+    <Transaction>2021/10/15 16:34:43.000.701,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2021/10/26 07:40:36.000.609,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2022/01/18 16:16:27.000.611,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2023/02/03 07:57:32.000.374,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2023/06/07 14:43:20.000.451,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2024/04/08 20:25:19.000.554,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2024/04/25 15:48:53.000.572,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX10.4\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 10:25:32.720,=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX12.2\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 10:27:14.609,C:\TESTE_3\Test_SMDBGrid\Unit1.dfm=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX12.2\Unit1.dfm</Transaction>
+    <Transaction>2024/12/02 10:27:14.609,C:\TESTE_3\Test_SMDBGrid\Unit1.pas=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX12.2\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 10:27:19.401,C:\TESTE_3\Test_SMDBGrid\Project1.dproj=E:\PROJETOS\FONTES_Cristofoletti\Delphi_DX12.2\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
